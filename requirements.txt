@@ -27,7 +27,7 @@ pip
 protobuf
 pyasn1	
 pyasn1-modules
-requests=	
+requests	
 requests-oauthlib	
 rsa	
 scipy
