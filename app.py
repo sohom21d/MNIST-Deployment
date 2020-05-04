@@ -38,4 +38,4 @@ def predict():
 
 if __name__ == '__main__':
     load_model('static/models/model1')
-    app.run(debug=True)
+    app.run()
